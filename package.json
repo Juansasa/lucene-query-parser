@@ -27,7 +27,7 @@
     "url": "https://github.com/mahnunchik/lucene-query-parser/issues"
   },
   "devDependencies": {
-    "pegjs": "0.7.x",
-    "jasmine-node": "1.10.x"
+    "pegjs": "~0.10.0",
+    "jasmine-node": "~1.14.5"
   }
 }
