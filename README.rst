@@ -66,3 +66,8 @@ Bug reports or feature requests should go in the bitbucket issue tracker. Please
 sample data (the query) and a good description of the challenges you're facing.
 
 Look to the wiki for documentation and other resources. 
+
+
+.. image:: https://badges.greenkeeper.io/mahnunchik/lucene-query-parser.svg
+   :alt: Greenkeeper badge
+   :target: https://greenkeeper.io/
